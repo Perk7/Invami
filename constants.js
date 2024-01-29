@@ -1,0 +1,6 @@
+export const goldenColor = '#ddd94b'
+export const successColor = '#1ba781'
+export const errorColor = '#e11640'
+export const bgGray = '#2d2d2d'
+export const lightGray = '#3f3f3f'
+export const buttonColor = '#707070'

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "47155504054",
+    "firebase_url": "https://invami-3b5f6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "invami-3b5f6",
+    "storage_bucket": "invami-3b5f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47155504054:android:75061aba02903ad3a41717",
+        "android_client_info": {
+          "package_name": "com.perk__7.invamichat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_dhwGPM3Q5oP6xrKXFFzMd0Z2u8ar09A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
